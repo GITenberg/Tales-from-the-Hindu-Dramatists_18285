@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '7923'
     url: http://www.gutenberg.org/2009/agents/7923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18285#Tales-from-the-Hindu-Dramatists
 gutenberg_bookshelf:
 - Hinduism
 - India
