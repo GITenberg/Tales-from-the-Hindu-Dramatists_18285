@@ -1,0 +1,40 @@
+_repo: Tales-from-the-Hindu-Dramatists_18285
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dutta, R. N.
+    gutenberg_agent_id: '7922'
+    url: http://www.gutenberg.org/2009/agents/7922
+  editor:
+    agent_name: Zemin, J. S.
+    gutenberg_agent_id: '7923'
+    url: http://www.gutenberg.org/2009/agents/7923
+description: ''
+gutenberg_bookshelf:
+- Hinduism
+- India
+gutenberg_issued: '2006-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18285'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'Sanskrit drama -- Adaptations'
+tableOfContents: Sakuntala or the lost ring -- Vikramorvasi or Urvasi won by valour
+  -- Malavikagnimitra -- The vira charita or the mahavira charita -- Uttar Rama Charita
+  -- Malati and Madhava or the stolen marriage -- Hanuman Nataka, or Mahanataka, or
+  the great drama -- Anergha Raghava or Murari Nataka -- Veni Samvarana or Veni Sanhara
+  -- Chanda Kausika -- Madhuraniruddha -- Sridama Charita -- Kansa Badha -- Yayati
+  Charitra -- Kautuka Servaswa -- Prachanda Pandava -- Probodha Chandrodaya -- Nagananda
+  -- Dutangada -- Pradyumna Vijaya -- Vidagdha Madhava -- Dhananyaya Vijaya -- Hasyarnava
+  -- Chitra Yajna -- Mrigankalekha -- Mudrarakshasa -- Viddha Salabhanjika -- Ratnavali
+  or the necklace.
+title: Tales from the Hindu Dramatists
+url: http://www.gutenberg.org/ebooks/18285
